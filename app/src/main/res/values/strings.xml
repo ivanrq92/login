@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Login</string>
+
+    <string name="op1">Option #1</string>
+    <string name="op2">Option #2</string>
+    <string name="op3">Option #3</string>
+    <string name="op4">Option #4</string>
+    <string name="op5">Option #5</string>
+    <string name="op6">Option #6</string>
+    <string name="op7">Option #7</string>
+    <string name="middle">Other part</string>
+    <string name="navdemo">Navigation Drawer Full Demo</string>
+    <string name="naviagtion_drawer_open">Open Navigation Drawer</string>
+    <string name="naviagtion_drawer_close">Close Navigation Drawer</string>
+    <string name="action_settings">Settings</string>
+</resources>

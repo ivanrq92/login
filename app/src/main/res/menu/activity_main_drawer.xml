@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <group android:checkableBehavior="single">
+
+        <item
+            android:id="@+id/op1"
+            android:title="@string/op1"
+            android:icon="@drawable/ic_face" />
+        <item
+            android:id="@+id/op2"
+            android:title="@string/op2"
+            android:icon="@drawable/ic_face"/>
+        <item
+            android:id="@+id/op3"
+            android:title="@string/op3"
+            android:icon="@drawable/ic_face"/>
+        <item
+            android:id="@+id/op4"
+            android:title="@string/op4"
+            android:icon="@drawable/ic_face"/>
+        <item
+            android:id="@+id/op5"
+            android:title="@string/op5"
+            android:icon="@drawable/ic_face"/>
+        <item android:title="@string/middle">
+            <menu>
+                <item
+                    android:id="@+id/op6"
+                    android:title="@string/op6"
+                    android:icon="@drawable/ic_face"/>
+                <item
+                    android:id="@+id/op7"
+                    android:title="@string/op7"
+                    android:icon="@drawable/ic_face"/>
+            </menu>
+        </item>
+        <item
+            android:id="@+id/btn_logout"
+            android:title="Logout"
+            android:icon="@drawable/logout"
+            />
+
+    </group>
+</menu>
